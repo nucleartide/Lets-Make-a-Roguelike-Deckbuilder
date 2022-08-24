@@ -23,6 +23,12 @@
 >
 > If needed, explain your code's structure with [Mermaid diagrams](https://docs.github.com/en/get-started/writing-on-github/working-with-advanced-formatting/creating-diagrams).
 
-## Thought Exercises
+## Thought exercises
 
 > Reflect on the work that was done, and the work that remains to be done. Ask yourself questions about what could have gone better, and what to work on next.
+
+## Marketing
+
+> Create a piece of content to market this unit of work as a portfolio piece.
+>
+> See [Notion](https://www.notion.so/nucleartide/Marketing-Template-7355243fbc9a49438a25384d5421c3f5) for a template.
